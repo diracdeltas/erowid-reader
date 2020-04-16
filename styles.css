@@ -1,0 +1,35 @@
+body {
+  font-size: 20px;
+  padding: 20px;
+  background-size: contain;
+  color: #555555;
+}
+
+.center {
+  text-align: center;
+}
+
+button {
+  font-size: 36px;
+  cursor: pointer;
+  display: inline;
+  margin-top: 72px;
+}
+
+button:hover { opacity: 0.5; }
+
+footer {
+  width: 100%;
+  position: absolute;
+  bottom: 7px;
+  margin-left: -25px;
+  text-align: center;
+  font-size: 15px;
+}
+
+a {
+  color: #555555;
+}
+a:hover {
+  color: #aaaaaa;
+}
